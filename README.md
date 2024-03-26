@@ -4,6 +4,7 @@
 
 ### Equipe
 * Pedro
+* Lara
 
 ```
 npm install bootstrap
